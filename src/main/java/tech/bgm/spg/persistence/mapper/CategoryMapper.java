@@ -5,9 +5,9 @@ import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 import org.mapstruct.Mappings;
 import tech.bgm.spg.domain.Category;
-import tech.bgm.spg.domain.Product;
+
 import tech.bgm.spg.persistence.entity.Categoria;
-import tech.bgm.spg.persistence.entity.Producto;
+
 
 import java.util.List;
 
